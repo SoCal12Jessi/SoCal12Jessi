@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoCal12Jessi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Analytics, SQL, Power BI, Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
