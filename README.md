@@ -1,6 +1,6 @@
 - 👋 Data Analyst interested in everything and anything data related
 - 🌱 Data Analytics, SQL, Power BI, Machine Learning, Visualization
-- 📫 How to reach me socalp12@gmail.com
+  
 
 
 
